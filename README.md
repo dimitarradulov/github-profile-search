@@ -6,8 +6,9 @@ Gets github username from an input field and makes a call to the GitHub REST API
 ## Technologies used
 - HTML
 - CSS
-- Fetch
-- GitHub REST API
+- JavaScript
+  - Fetch
+  - GitHub REST API
 
 ## Quick preview
 You can check out the app here:
